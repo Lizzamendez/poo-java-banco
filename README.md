@@ -86,9 +86,10 @@ Limite: 500.0
 
 ## 📚 Observações
 
-Projeto criado com implementação própria, inspirado no desafio proposto pelo bootcamp, visando consolidar conceitos fundamentais de POO.
+Projeto criado com implementação própria, inspirado no desafio proposto pelo bootcamp da DIO: https://github.com/cami-la/desafio-poo-dio, visando consolidar conceitos fundamentais de POO.
 
 ---
 
 **Desenvolvido por:** Lizza Mendez  
-**Bootcamp:** Java & QA – Bradesco
+**Bootcamp:** PcD Tech Bradesco - Java & QA Developer
+
