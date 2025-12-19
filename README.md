@@ -43,7 +43,7 @@ poo-java-banco/
 
 1. **Clone o repositório**
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/Lizzamendez/poo-java-banco.git
    cd poo-java-banco
    ```
 
@@ -90,5 +90,5 @@ Projeto criado com implementação própria, inspirado no desafio proposto pelo 
 
 ---
 
-**Desenvolvido por:** [Seu Nome]  
+**Desenvolvido por:** Lizza Mendez  
 **Bootcamp:** Java & QA – Bradesco
